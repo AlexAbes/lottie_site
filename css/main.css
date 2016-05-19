@@ -5,7 +5,8 @@ body {
 }
 
 header {
-	margin-left: 2%;
+	/*margin-left: 2%;*/
+	text-align: center;
 }
 
 header p {
@@ -16,6 +17,9 @@ header p {
 img {
 	max-width: 90%;
 	max-height: 250px;
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
 }
 
 h2 {
